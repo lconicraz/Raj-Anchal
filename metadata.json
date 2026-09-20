@@ -1,0 +1,6 @@
+{
+  "name": "Trick Master",
+  "description": "A stylish name and bio generator featuring modern Unicode text styles, curated social bios, and local favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
